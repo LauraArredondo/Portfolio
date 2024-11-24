@@ -9,7 +9,7 @@ Beyond the technical side, I love the creative aspects of design and enjoy bridg
 
 [My LinkedIn Profile](https://www.linkedin.com/in/lauraarredondo1/)
 
-## Soft Skills
+## Soft Skills 
 * Attention to detail – Ensuring thorough testing and documentation to identify and resolve issues effectively.
 * Communication - writting and verba communication providing clear and concise feedback, documentation, and issue reporting to stakeholders.
 * Problem Solving – Diagnosing and troubleshooting complex issues, ensuring quick and effective solutions.
@@ -40,6 +40,11 @@ Beyond the technical side, I love the creative aspects of design and enjoy bridg
 * Done courses [Codeacademy](https://www.codecademy.com/) , [Teamtreehouse](https://teamtreehouse.com/) to improve my knowledge and skills
 * Hands on experience in past roles doing Web-based testing, finding bugs and flow flaws
 
+### Automation Testing
+* automated tools and scripts to validate a software product's functionality
+* Unit, end to end , regression and smoke testing
+* Learn this by doing courses about Cypress automation testing
+
 ## Tools 🛠️
 * [Git & Github](https://github.com/) - for work in development team and controlling software versions and preparing repositories
 * [Jira](https://www.atlassian.com/) , [Linear](https://linear.app/) - project management
@@ -64,8 +69,8 @@ Beyond the technical side, I love the creative aspects of design and enjoy bridg
 * [Design thinking in 3 steps](https://www.udemy.com/course/designit-design-thinking)
 * [API testing with Python](https://www.udemy.com/course/backend-api-testing-with-python/)
 
-## Test Cases
- [Test Cases Example in notion](https://pickled-plain-8e5.notion.site/Test-Cases-129d283a181880f4b31ec93478f93e9e)
+## Test Cases 📄
+[Test Cases Example in notion](https://pickled-plain-8e5.notion.site/Test-Cases-129d283a181880f4b31ec93478f93e9e)
 
-## Figma Design
+## Figma Design 🎨
 [Figma design examples](https://www.figma.com/proto/na8YSwq7J4VPireeoTCZcl/Flux---Figma-Build-Tutorial-(Starter)-(Community)?page-id=0%3A1&node-id=203-2&node-type=canvas&viewport=710%2C104%2C0.19&t=gnaWNppUogvH856s-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=203%3A2)
