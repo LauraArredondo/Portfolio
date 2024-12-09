@@ -59,6 +59,7 @@ Beyond the technical side, I love the creative aspects of design and enjoy bridg
 * [Figma](https://www.figma.com/) - for design
 
 ## Courses 📓
+* [Master Certificate in Business Management](https://www.masterclassmanagement.com/)
 * [ISTQB Certificate tester- Foundation Level 2024](https://www.udemy.com/course/accredited-istqb-certified-tester-foundation-level-course/?couponCode=BFCPSALE24)
 * [Cypress -Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/course/cypress-tutorial/?couponCode=BFCPSALE24)
 * [Comman line](https://www.learnenough.com/command-line)
